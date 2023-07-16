@@ -10,4 +10,4 @@ I'm currently working on my own application for paragliding places.
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=1a751a)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=00ffff)
   </br>
-  ![Postrge](https://img.shields.io/badge/-Postrge-333333?style=flat&logo=Postrge&logoColor=00ffff)
+  ![Postrges](https://img.shields.io/badge/-Postrges-333333?style=flat&logo=Postrges&logoColor=00ffff)
