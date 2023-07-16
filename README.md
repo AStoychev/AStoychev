@@ -5,8 +5,8 @@ I'm currently working on my own application for paragliding places.
 <h3> 🛠 &nbsp;Tech Stack:</h3>
 
 <table border-color="red">
-      <tr >
-            <th>
+      <tr border-color="red">
+            <th border-color="red">
                   
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
