@@ -4,7 +4,7 @@ I'm currently working on my own application for paragliding places.
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
 
-<table border:none>
+<table cellspacing="0" cellpadding="0">
       <tr>
             <th>
                   
