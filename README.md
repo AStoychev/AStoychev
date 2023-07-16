@@ -6,4 +6,4 @@ I'm currently working on my own application for paragliding places.
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=0066ff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=003300)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=1a751a)
