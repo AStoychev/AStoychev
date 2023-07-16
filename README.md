@@ -2,11 +2,11 @@
 I'm highly motivated to develop in the field of information technology.
 I'm currently working on my own application for paragliding places.
 
-<h3> 🛠 &nbsp;Tech Stack:</h3>
-
 <table>
       <tr>
             <th>
+
+            <h3> 🛠 &nbsp;Tech Stack:</h3>
                   
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
@@ -28,4 +28,4 @@ I'm currently working on my own application for paragliding places.
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   </th>
   
-  <th><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="590px" height="450px"/></th>
+  <th><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="594px" height="450px"/></th>
