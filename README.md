@@ -2,6 +2,7 @@
 <p><strong style="color:#000099">I'm highly motivated to develop in the field of information technology.</strong></p>
 <p><strong style="color:#000099">I'm currently working on my own application for paragliding places.</strong></p>
 
+
 <table>
       <tr>
             <th>
