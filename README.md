@@ -6,6 +6,7 @@ I'm currently working on my own application for paragliding places.
 <table style="width:100%">
   <tr>
     <th>
+      
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
   
