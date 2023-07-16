@@ -6,8 +6,13 @@ I'm currently working on my own application for paragliding places.
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=0066ff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
+  
   </br>
+  
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=1a751a)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=00ffff)
+  
   </br>
+  
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=Postgres&logo=Postgres)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
