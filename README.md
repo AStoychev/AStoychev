@@ -6,6 +6,7 @@ I'm currently working on my own application for paragliding places.
       <tr>
             <th>
 
+
             <h3> 🛠 &nbsp;Tech Stack:</h3>
                   
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
