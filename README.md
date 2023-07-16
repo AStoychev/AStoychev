@@ -4,9 +4,9 @@ I'm currently working on my own application for paragliding places.
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
 
-<table border="none">
-      <tr border="none">
-            <th border="none">
+<table style="border: none">
+      <tr >
+            <th>
                   
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
