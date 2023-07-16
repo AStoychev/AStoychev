@@ -1,7 +1,6 @@
 <h2>Hi, I'm Atanas a Junior Python / React Developer.</h2>
-<p><strong style="color:blue">I'm highly motivated to develop in the field of information technology.</strong></p>
-<p><strong style="color:blue">I'm currently working on my own application for paragliding places.</strong></p>
-
+<p><strong>I'm highly motivated to develop in the field of information technology.</strong></p>
+<p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
 <table>
       <tr>
@@ -31,4 +30,4 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   </th>
   
-  <th><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="594px" height="450px"/></th>
+  <th><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="594px" height="410px"/></th>
