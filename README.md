@@ -13,5 +13,4 @@ I'm currently working on my own application for paragliding places.
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=00ffff)
   
   </br>
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=Postgres)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
