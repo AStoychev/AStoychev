@@ -17,4 +17,4 @@ I'm currently working on my own application for paragliding places.
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0066ff)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
-  <img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" />
+  <img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="250px" height="180px"/>
