@@ -4,6 +4,6 @@ I'm currently working on my own application for paragliding places.
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFFF00)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=FFD700)
