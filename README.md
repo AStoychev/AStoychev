@@ -7,7 +7,8 @@ I'm currently working on my own application for paragliding places.
             <th>
 
 
-            <h3> 🛠 &nbsp;Tech Stack:</h3>
+<h3> 🛠 &nbsp;Tech Stack:</h3>
+      
                   
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
