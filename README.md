@@ -4,7 +4,7 @@ I'm currently working on my own application for paragliding places.
 
 <h3> 🛠 &nbsp;Tech Stack:</h3>
 
-<table border-style="solid"; border-color="red">
+<table border-style=solid; border-color=red>
       <tr border-color=red>
             <th border-color=red>
                   
