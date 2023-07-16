@@ -20,3 +20,5 @@ I'm currently working on my own application for paragliding places.
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0066ff)
+
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=photoshop)
