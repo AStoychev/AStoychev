@@ -12,5 +12,5 @@ I'm currently working on my own application for paragliding places.
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=1a751a)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=00ffff)
   
-  </br>
+
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
