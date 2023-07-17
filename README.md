@@ -3,6 +3,8 @@
 <p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
 <p align="center">
+
+<span width="45%">
       
 <h3> 🛠 &nbsp;Tech Stack:</h3>
                   
@@ -25,9 +27,11 @@
             
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
+</span>
+
 &nbsp; &nbsp; &nbsp; &nbsp;
   
   
-<img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="594px" height="348px"/>
+<img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="45%" height="348px"/>
 
 </p>
