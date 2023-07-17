@@ -2,9 +2,6 @@
 <p><strong>I'm highly motivated to develop in the field of information technology.</strong></p>
 <p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
-<div style="float:left;">
-    <span style="display:inline; color: red;">
-
     <h3> 🛠 &nbsp;Tech Stack:</h3>
       
                   
@@ -26,9 +23,6 @@
     ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0066ff)
             
     ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-      </span>
-</div>
   
   
 <img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="594px" height="348px"/>
