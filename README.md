@@ -2,8 +2,7 @@
 <p><strong>I'm highly motivated to develop in the field of information technology.</strong></p>
 <p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
-```diff
-- background in red<table border-style="solid" border-color="red">
+<table borderStyle="solid" borderColor="red">
 <tr border-style="solid" border-color="red">
 <td border-style="solid" border-color="red">
       
@@ -35,4 +34,3 @@
 
 </tr>
 </table>
-```
