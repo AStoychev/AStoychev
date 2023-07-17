@@ -20,5 +20,4 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
   
-  
-<img src="https://www.lambdatest.com/resources/images/news24.gif" width="594px" height="348px"/>
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="732px" height="348px"/>
