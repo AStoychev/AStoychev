@@ -3,7 +3,7 @@
 <p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
 ```diff
-- text in red<table border-style="solid" border-color="red">
+- background in red<table border-style="solid" border-color="red">
 <tr border-style="solid" border-color="red">
 <td border-style="solid" border-color="red">
       
