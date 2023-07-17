@@ -19,5 +19,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0066ff)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-  
+<p align="center">
 <img src="https://www.lambdatest.com/resources/images/news24.gif" width="732px" height="348px"/>
+</p>
