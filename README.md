@@ -2,7 +2,8 @@
 <p><strong>I'm highly motivated to develop in the field of information technology.</strong></p>
 <p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
-![#f03c15]<table border-style="solid" border-color="red">
+![#f03c15]
+<table border-style="solid" border-color="red">
 <tr border-style="solid" border-color="red">
 <td border-style="solid" border-color="red">
       
@@ -33,4 +34,5 @@
 <td><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="630px" height="348px"/></td>
 
 </tr>
-</table>`#f03c15`
+</table>
+`#f03c15`
