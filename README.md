@@ -30,7 +30,7 @@
 </td>
   
   
-<td><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="70%" height="348px"/></td>
+<td><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="500px" height="348px"/></td>
 
 </tr>
 </table>
