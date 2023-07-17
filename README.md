@@ -2,8 +2,8 @@
 <p><strong>I'm highly motivated to develop in the field of information technology.</strong></p>
 <p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
-<p align="center">
-  <h3> 🛠 &nbsp;Tech Stack:</h3>
+<div align="center">
+  <h3 align="center"> 🛠 &nbsp;Tech Stack:</h3>
   
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
@@ -19,7 +19,7 @@
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0066ff)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-</p>
+</div>
 
 <div align="center">
 <img src="https://www.lambdatest.com/resources/images/news24.gif" width="732px" height="348px"/>
