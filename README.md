@@ -6,6 +6,7 @@
 <div style="float:left;">
       <span style="display:inline;">
 
+
             <h3> 🛠 &nbsp;Tech Stack:</h3>
       
                   
@@ -27,6 +28,7 @@
         ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0066ff)
         
         ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+        
   </span>
   
   
