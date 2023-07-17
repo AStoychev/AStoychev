@@ -3,8 +3,7 @@
 <p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
       
-<h3> 🛠 &nbsp;Tech Stack:</h3>
-                  
+<h3> 🛠 &nbsp;Tech Stack:</h3>             
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=1a751a)
