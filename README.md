@@ -5,7 +5,7 @@
 <p float="left">
 <h3> 🛠 &nbsp;Tech Stack:</h3>
       
-<span>
+<span width="100">
                   
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=FFD700)
