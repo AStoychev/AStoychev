@@ -21,4 +21,4 @@
 
   
   
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="594px" height="348px"/>
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="594px" height="348px"/>
