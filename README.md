@@ -2,9 +2,9 @@
 <p><strong>I'm highly motivated to develop in the field of information technology.</strong></p>
 <p><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
-<table border-style: "solid" border-color: "red">
-<tr>
-<td>
+<table border-style="solid" border-color="red">
+<tr border-style="solid" border-color="red">
+<td border-style="solid" border-color="red">
       
 <h3> 🛠 &nbsp;Tech Stack:</h3>
                   
@@ -30,7 +30,7 @@
 </td>
   
   
-<td><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="730px" height="348px"/></td>
+<td><img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" width="630px" height="348px"/></td>
 
 </tr>
 </table>
