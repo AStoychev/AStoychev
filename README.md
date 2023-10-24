@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Atanas a Junior Python / React Developer.</h2>
+<h2 align="center">Hi, I'm Atanas a Python / React Developer.</h2>
 <p align="center"><strong>I'm highly motivated to develop in the field of information technology.</strong></p>
 <p align="center"><strong>I'm currently working on my own application for paragliding places.</strong></p>
 
