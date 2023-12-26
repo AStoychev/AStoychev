@@ -2,7 +2,6 @@
 <p align="center"><strong>I'm highly motivated to develop in the field of information technology.</strong></p>
 
 <div align="center">
-  
   <h3 align="center"> 🛠 &nbsp;Tech Stack:</h3>
   
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
