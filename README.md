@@ -23,7 +23,5 @@
 </div>
 
 <div align="center">
-  
 <img src="https://www.lambdatest.com/resources/images/news24.gif" width="732px" height="348px"/>
-  
 </div>
